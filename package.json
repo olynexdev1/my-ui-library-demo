@@ -1,0 +1,27 @@
+{
+  "name": "@sadid/my-ui-library",  
+  "version": "1.0.0",       
+  "description": "A custom front-end UI library with dynamic routing", 
+  "main": "dist/my-ui-library.js",  
+  "scripts": {
+    "build": "webpack",    
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/my-ui-library.git" 
+  },
+  "keywords": [
+    "ui-library",
+    "frontend",
+    "routing",
+    "component",
+    "state-management"
+  ],
+  "author": "Your Name <youremail@example.com>", 
+  "license": "MIT", 
+  "files": [
+    "dist",           
+    "README.md"      
+  ]
+}
